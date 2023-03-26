@@ -14,7 +14,7 @@ function App() {
       <Skills />
       <Work />
       <Contact />
-      <div className="bg-[#0a192f] text-gray-300 text-white text-center pb-8 pt-12">© Copyright 2023. <span className="font-semibold">Made by <span className="font-bold underline hover:shadow-md cursor-pointer">Danishkar S</span></span></div>
+      <div className="bg-[#0a192f] text-gray-300 text-white text-center pb-8">© Copyright 2023. <span className="font-semibold">Made by <span className="font-bold underline hover:shadow-md cursor-pointer">Danishkar S</span></span></div>
     </div>
   );
 }
