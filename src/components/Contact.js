@@ -24,7 +24,7 @@ const Contact = () => {
   };
 
   return (
-    <div name='contact' className='w-full h-screen bg-[#0a192f] flex justify-center items-center p-12 md:pt-96 md:pb-72'>
+    <div name='contact' className='w-full h-screen bg-[#0a192f] flex justify-center items-center p-12 md:pt-[30%] md:pb-72'>
         <form ref={form} onSubmit={sendEmail} className='flex flex-col max-w-[600px] w-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-gray-300'>Contact</p>
